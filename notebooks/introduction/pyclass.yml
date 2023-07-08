@@ -1,0 +1,21 @@
+name: pyclass
+channels:
+ - conda-forge
+dependencies:
+ - pip
+ - numpy
+ - scipy
+ - pandas
+ - xarray
+ - jupyterlab
+ - matplotlib
+ - opencv
+ - csvkit
+ - pip:
+  - pytest
+  - tqdm
+  - pytest-shutil
+  - openpiv
+  - scikit-image
+  - glob2
+  - dill
