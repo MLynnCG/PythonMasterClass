@@ -1,6 +1,6 @@
-Exercise: Saving and Sharing NumPy Arrays
+# Exercise: Saving and Sharing NumPy Arrays
 
-Instructions:
+## Instructions:
 1. Create a NumPy array with random integer values between 1 and 100 (inclusive) of shape (5, 3). Assign it to the variable `array`.
 2. Save the `array` in NumPy format as 'my_array.npy'.
 3. Save the `array` in text format as 'my_array.txt' with a comma (',') as the delimiter.
