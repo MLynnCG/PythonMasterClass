@@ -1,4 +1,4 @@
-## Solutions to read_save_data
+## Solutions for the exercise of read_save_data
 
 import numpy as np
 import pandas as pd
