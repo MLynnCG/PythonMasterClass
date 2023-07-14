@@ -22,3 +22,4 @@ print("\nIterating using nditer:")
 for element in np.nditer(arr):
     print(element)
 ```
+Subscribe to my youtube channel
